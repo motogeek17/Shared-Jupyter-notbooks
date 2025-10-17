@@ -41,7 +41,7 @@ dependencies:
   - decorator=5.2.1
   - defusedxml=0.7.1
 
-  -python=3.12
+  - python=3.12
  
   
 
