@@ -1,7 +1,7 @@
 name: myjlabenv
 channels:
-  - bioconda
   - conda-forge
+  - bioconda
 dependencies:
   - _python_abi3_support=1.0=hd8ed1ab_2
   - _r-mutex=1.0.1=anacondar_1
